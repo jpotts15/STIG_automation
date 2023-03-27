@@ -1,4 +1,4 @@
-Testing some stig automatoins mainly trying to use chatgpt and other similar tools to generate stig automations
+Testing some stig automations mainly trying to use chatgpt and other similar tools to generate stig automations
 
 Input "Write a python script to automate the commands to run in the DISA Cisco Router NDM STIG using a file as input for the list of devices"
 First testing wasn't very impressive, chatgpt basically said you shouldn't log into machines without authorization so think it must have flagged that I was trying to get it to write a script to do something nefarious
